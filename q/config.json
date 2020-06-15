@@ -5,6 +5,11 @@
       "filename":"english.json",
       "showRandom":true,
       "version":1
+    },{
+      "title":"Hindi",
+      "filename":"hindi.json",
+      "showRandom":false,
+      "version":1
     }
   ]
 }
