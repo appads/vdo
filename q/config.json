@@ -3,12 +3,14 @@
     {
       "title":"English",
       "filename":"english.json",
-      "showRandom":true
+      "showRandom":true,
+      "version":1
     },
     {
       "title":"Hindi",
       "filename":"hindi.json",
-      "showRandom":false
+      "showRandom":false,
+      "version":1
     }
   ]
 }
